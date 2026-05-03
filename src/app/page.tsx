@@ -3,6 +3,7 @@ import Hero from '@/components/Hero'
 import Products from '@/components/Products'
 import BrandValue from '@/components/BrandValue'
 import Process from '@/components/Process'
+import HowToClean from '@/components/HowToClean'
 import Expertise from '@/components/Expertise'
 import Applications from '@/components/Applications'
 import TrustSignals from '@/components/TrustSignals'
@@ -22,6 +23,7 @@ export default function Home() {
         <Products />
         <BrandValue />
         <Process />
+        <HowToClean />
         <Expertise />
         <Applications />
         <TrustSignals />
